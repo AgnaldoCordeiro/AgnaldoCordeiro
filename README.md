@@ -12,7 +12,7 @@ Entusiasta das melhores tecnologias de desenvolvimento web.
 
 Apaixonado por Tecnologia, busco estar sempre por dentro das inovações que revoluciona o mundo.
 
-"Nada neste mundo supera a boa e velha persistência. Talento não supera. Nada mais comum que fracassos talentosos. Gênio não supera. Gênios não reconhecidos é praticamente um clichê. A educação não excede. O mundo está cheio de tolos educados. Persistência e determinação sozinhos são poderosos."
+"Nada neste mundo supera a boa e velha persistência. Talento não supera. Persistência e determinação sozinhos são poderosos."
 
 
   
