@@ -21,7 +21,6 @@ de email marketing com infraestrutura SMTP própria.
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [Myago](https://myago.com.br) | Plataforma de email marketing com SMTP próprio | NestJS · AWS · React |
-| [Web Radio](https://web-radio.vercel.app/) | Rádio web com sistema de doação | Next.js · Stripe · TypeScript |
 
 ## 📫 Contato
 
