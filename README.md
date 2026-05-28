@@ -1,18 +1,30 @@
-## Agnaldo Cordeiro
+# Olá, sou Agnaldo Cordeiro 👋
 
+Senior Software Engineer com 6+ anos construindo sistemas escaláveis
+em **Node.js, NestJS, TypeScript e AWS**.
 
-Entusiasta das melhores tecnologias de desenvolvimento web.
+Fundador do **[Myago](https://myago.com.br)** — plataforma brasileira 
+de email marketing com infraestrutura SMTP própria.
 
-<div>
+## 🛠 Stack principal
 
-<a href="https://instagram.com/agnaldocordeiro_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:agske13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/agnaldocordeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-Apaixonado por Tecnologia, busco estar sempre por dentro das inovações que revoluciona o mundo.
+## 📌 Projetos em destaque
 
-"Nada neste mundo supera a boa e velha persistência. Talento não supera. Persistência e determinação sozinhos são poderosos."
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Myago](https://myago.com.br) | Plataforma de email marketing com SMTP próprio | NestJS · AWS · React |
+| [Web Radio](https://web-radio.vercel.app/) | Rádio web com sistema de doação | Next.js · Stripe · TypeScript |
 
+## 📫 Contato
 
-  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/agnaldocordeiro)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agske13@gmail.com)
+[![Site](https://img.shields.io/badge/-myago.com.br-000000?style=flat&logo=vercel)](https://myago.com.br)
