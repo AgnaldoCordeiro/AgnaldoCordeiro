@@ -3,7 +3,7 @@
 Senior Software Engineer com 6+ anos construindo sistemas escaláveis
 em **Node.js, NestJS, TypeScript e AWS**.
 
-Fundador do **[Myago](https://myago.com.br)** — plataforma brasileira 
+Fundador do **[ZeraHub](https://zerahub.com.br)** — plataforma brasileira 
 de email marketing com infraestrutura SMTP própria.
 
 ## 🛠 Stack principal
@@ -20,7 +20,7 @@ de email marketing com infraestrutura SMTP própria.
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [Myago](https://myago.com.br) | Plataforma de email marketing com SMTP próprio | NestJS · AWS · React |
+| [Myago](https://zerahub.com.br) | Plataforma de email marketing com SMTP próprio | NestJS · AWS · React |
 
 ## 📫 Contato
 
