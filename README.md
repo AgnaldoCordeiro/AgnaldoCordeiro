@@ -20,7 +20,7 @@ de email marketing com infraestrutura SMTP própria.
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [Myago](https://zerahub.com.br) | Plataforma de email marketing com SMTP próprio | NestJS · AWS · React |
+| [ZeraHub](https://zerahub.com.br) | Plataforma de email marketing com SMTP próprio | NestJS · AWS · React |
 
 ## 📫 Contato
 
